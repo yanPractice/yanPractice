@@ -1,7 +1,7 @@
 {
   "name": "Node.js CI Starter",
   "description": "Un flujo de trabajo inicial para proyectos Node.js con CI básico.",
-  "iconName": "nodejs",  // Cambia esto según el icono compatible
+  "iconName": "nodejs",
   "categories": ["JavaScript", "Node.js"],
   "filePatterns": ["package.json"]
 }
